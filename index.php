@@ -2,10 +2,10 @@
  $brush_price = 5;
  
  echo "<table border=\"1\" align=\"center\">";
- echo "<tr><th>Quantity</th>";
- echo "<th>Price</th></tr>";
+ echo "<tr><th>Kuantitas</th>";
+ echo "<th>Harga</th></tr>";
  
- $counter = 10;
+ $counter = 5;
  do {
  echo "<tr><td>";
  echo $counter;
